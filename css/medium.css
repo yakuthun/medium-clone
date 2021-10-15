@@ -1,0 +1,22 @@
+body {
+    font-family: 'PT Serif', serif;
+    padding-top: 70px;
+}
+
+.bg-blue {
+    background-color: #C4E2FF;  
+}
+
+.border-bottom-dark {
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+
+.container {
+    max-width: 1300px;
+}
+
+.aging {
+    background: #E6E6E6;
+    border-radius: 30%;
+    padding: 5px;
+}
